@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sagar Biswas
 - 👀 I’m interested in javascript, PHP, React & Laravel
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? https://www.saggarr.com/
 
 <!---
